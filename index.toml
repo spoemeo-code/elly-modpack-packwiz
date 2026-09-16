@@ -791,6 +791,11 @@ hash = "c233c8d0d1a7aa78b6e54e0864c5eb706ec7ec386993b045adfff5c2c491f383"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2e60b559b948249922cbe8140a081e5fcfa0861803b2020f020da93edda2db9b"
 metafile = true
@@ -1519,3 +1524,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
+
+[[files]]
+file = "skins_public/wife.png"
+hash = "8cbff4990a94598a36236f8cb4640518842ce4137c3efe471450d4ba5bf52ff0"
+
+[[files]]
+file = "skins_public/wife2.png"
+hash = "e12eac579f293fa808eeb1b0696552969516756db44a3e3d1e4447eeb2a7ae79"
