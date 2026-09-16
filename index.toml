@@ -96,6 +96,11 @@ hash = "6efa4c1ebfa76041b8de8630bb3a0ff9552f4e9438df1efcb92894879ea8470a"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
+metafile = true
+
+[[files]]
 file = "mods/aures-farmers-structures.pw.toml"
 hash = "d61f12ee33f1b2c93021317ff7c12ec1bdf67300673db60205a3b01acf786038"
 metafile = true
@@ -487,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
