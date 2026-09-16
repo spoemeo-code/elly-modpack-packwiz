@@ -1,0 +1,13 @@
+name = "Loot Integrations: DungeonZ"
+filename = "lootintegrations_dungeonz-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e98bdba64e179fdf473afeb6ab75aaeca8b87d50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550842
+project-id = 1269864
