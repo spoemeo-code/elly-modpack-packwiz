@@ -1,0 +1,13 @@
+name = "Cobblemon Weather Accurate Battles"
+filename = "weather-accurate-battles-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQirKldB/versions/arkBT4wY/weather-accurate-battles-1.1.0.jar"
+hash-format = "sha512"
+hash = "a0b597f8e24da80afc67d003b5aab10ecbf94e87f3b058cede1b736dc791629895cd5c88bac76e3e894500caa61a538c7aadbdfda4f0044f140017d2ed1ba9ca"
+
+[update]
+[update.modrinth]
+mod-id = "YQirKldB"
+version = "arkBT4wY"

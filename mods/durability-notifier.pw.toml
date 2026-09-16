@@ -1,0 +1,13 @@
+name = "Durability Notifier"
+filename = "DurabilityNotifier-fabric-1.21.1-2.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yGpT1GvE/versions/wiBhrggP/DurabilityNotifier-fabric-1.21.1-2.1.4.jar"
+hash-format = "sha512"
+hash = "03dc2e49d9fdc26c8ea91c23cbacca9946ca7dd80244ee24224f8a0d740cc9246750ed907b9f15e9a9c59292abaa1ea976bb47eb9adc585b176de9138fd3975b"
+
+[update]
+[update.modrinth]
+mod-id = "yGpT1GvE"
+version = "wiBhrggP"

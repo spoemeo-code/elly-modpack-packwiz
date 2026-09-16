@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Nature's Spirit"
+filename = "farmers-cutting-natures-spirit-1.21.1-1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUhDIDyA/versions/LvXIETdI/farmers-cutting-natures-spirit-1.21.1-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "45b342b54fe2b0b78ccd3d87b3f6970c4ea18d580f181b4cb165d721bf2ed1453d970fcf2e0977eea325f2b06a96c8798135247ae12944e62d00a564a807b14e"
+
+[update]
+[update.modrinth]
+mod-id = "sUhDIDyA"
+version = "LvXIETdI"

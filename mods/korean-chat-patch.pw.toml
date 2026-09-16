@@ -1,0 +1,13 @@
+name = "Korean Chat Patch"
+filename = "koreanpatch-fabric-1.9.6+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyulnpBL/versions/IMX0mIHl/koreanpatch-fabric-1.9.6%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "08f29646150fd7cfc519a119ce833cbfdf1a3ef9cae446e94de6b72c50137b202608ca13958ed3239ea9ee6f18f1be4dab87c74e0f227f0d8391ed8d53f710ee"
+
+[update]
+[update.modrinth]
+mod-id = "qyulnpBL"
+version = "IMX0mIHl"
