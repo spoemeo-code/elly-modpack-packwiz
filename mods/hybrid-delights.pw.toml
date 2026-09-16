@@ -1,0 +1,13 @@
+name = "Hybrid Delights"
+filename = "[1.21.1-Fabric] Hybrid Delights 1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WR49BBCu/versions/KGUIAsfn/%5B1.21.1-Fabric%5D%20Hybrid%20Delights%201.2.1.jar"
+hash-format = "sha512"
+hash = "81870469e7bf243ed6710b65c6acab0cee67f43dd46b5f990514d9eaf42465c24f78cb5923c66106cb460816e7e2b04f4fa91d76ff5c60309de6474279abfb4c"
+
+[update]
+[update.modrinth]
+mod-id = "WR49BBCu"
+version = "KGUIAsfn"

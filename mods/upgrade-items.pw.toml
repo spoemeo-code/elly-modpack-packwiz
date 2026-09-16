@@ -1,0 +1,13 @@
+name = "Upgrader items"
+filename = "upgrader-fabric-1.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UQgc9Wcb/versions/TSHz3weS/upgrader-fabric-1.2.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "aaf8a72c9d61298ae5a2e526cc73045334bde96c2c81b41e1de4387f74d3bc08f311d5456911e630b8ad40cf23a1d8ca099749fbc2452b85080c19d146acf8ff"
+
+[update]
+[update.modrinth]
+mod-id = "UQgc9Wcb"
+version = "TSHz3weS"

@@ -1,0 +1,13 @@
+name = "Dark Enchanting [NeoForge/Fabric]"
+filename = "darkenchanting-fabric-1.3.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6M87Z355/versions/knct79tj/darkenchanting-fabric-1.3.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "5b79b33237a8241dc17146740d9e33aeee9a7d94da8ec2cbd680f7ab145a654ec8c455631587607db4d90ccf34d50a412fc5e472173a7221396836f0266acd2c"
+
+[update]
+[update.modrinth]
+mod-id = "6M87Z355"
+version = "knct79tj"

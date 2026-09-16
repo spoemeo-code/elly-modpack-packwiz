@@ -1,0 +1,13 @@
+name = "Cobblemon Leaderboards"
+filename = "cobblemon-leaderboards-fabric-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vb1pXlt5/versions/bHEAkQl5/cobblemon-leaderboards-fabric-3.0.jar"
+hash-format = "sha512"
+hash = "0133dc9a96b9569649320546f00205868f74f20ef177d7190b05baf09813c6ba1ddd8bba97f2f72bf68da564710340274a01eec3bfc9dea578c9d67b302135ca"
+
+[update]
+[update.modrinth]
+mod-id = "Vb1pXlt5"
+version = "bHEAkQl5"

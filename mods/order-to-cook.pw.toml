@@ -1,0 +1,13 @@
+name = "Order to cook下单了！"
+filename = "ordertocook-1.3.6-fabric1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoAnzOY4/versions/Ro4eMdmC/ordertocook-1.3.6-fabric1.21.1.jar"
+hash-format = "sha512"
+hash = "45efbe4db6e00fa3e0c413aad9f7a1f464deb04ee417cd2453f6fe191c881065c98bd643638b7cef354cca0a52543f3fab37b2feec7147dd8599b3b527ad083c"
+
+[update]
+[update.modrinth]
+mod-id = "SoAnzOY4"
+version = "Ro4eMdmC"

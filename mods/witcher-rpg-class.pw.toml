@@ -1,0 +1,13 @@
+name = "Witcher (More RPG Classes)"
+filename = "witcher-class-mod-fabric-3.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eW1c7Gj/versions/Q3UVPzud/witcher-class-mod-fabric-3.1.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "51f81a1870bf16bcc713457f41a23aaba88da9c25ad6f5a0d5079418ec3033a7b55664629debc5164982403979aa8df52b4acfc282087ffb155729e770e88456"
+
+[update]
+[update.modrinth]
+mod-id = "4eW1c7Gj"
+version = "Q3UVPzud"

@@ -1,0 +1,13 @@
+name = "Simply Tooltips"
+filename = "SimplyTooltips-fabric-0.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6avVoBVB/versions/jrFEfRpA/SimplyTooltips-fabric-0.1.3.jar"
+hash-format = "sha512"
+hash = "e4e5797491cf05571baa7ea7824c12201283503221ca51fd62ea006aaff465ccd64de73f5b7b977a8a9ba20a47a5d1c0c38d5a8ace17a8545fbb7ac4ae97e47d"
+
+[update]
+[update.modrinth]
+mod-id = "6avVoBVB"
+version = "jrFEfRpA"

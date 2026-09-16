@@ -1,0 +1,13 @@
+name = "Simple Death Chest"
+filename = "SimpleDeathChest-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x0x3CvHf/versions/uPn8zlTt/SimpleDeathChest-1.3.3.jar"
+hash-format = "sha512"
+hash = "1e3660affca8cc33d34bf5054487fcfc6b0b814d7f37cb4e1e86c9a48a0dd8df206e293f380dc507b343412e3b7e31dbcafff7d72aa1b08b83c5c8d3dbabfeea"
+
+[update]
+[update.modrinth]
+mod-id = "x0x3CvHf"
+version = "uPn8zlTt"

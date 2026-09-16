@@ -1,0 +1,13 @@
+name = "Macaw's Nature's Spirit"
+filename = "mcwnaturesspirit-fabric-1.21.1-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9puNODX/versions/KA8qu2Be/mcwnaturesspirit-fabric-1.21.1-1.6.jar"
+hash-format = "sha512"
+hash = "e29150b1a61c9bf9a0920c43806cb8390df79b9ddeab961b79c45d082fe33f1a5d0d8e5d367d61180495e148290bea3e4464248c5f5c9f935bd0b8f657150855"
+
+[update]
+[update.modrinth]
+mod-id = "z9puNODX"
+version = "KA8qu2Be"

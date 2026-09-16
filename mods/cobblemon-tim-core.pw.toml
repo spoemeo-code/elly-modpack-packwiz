@@ -1,0 +1,13 @@
+name = "Cobblemon Tim Core"
+filename = "timcore-fabric-1.8.0-1.32.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar"
+hash-format = "sha512"
+hash = "5d9da889fec83fbca74d009e00342fd45589604eee53cf0ba8d3a6c3011d93effef1feb97b801d4008588590057412bf69256297e9357ff42fc9097ad0ec1cb5"
+
+[update]
+[update.modrinth]
+mod-id = "lVP9aUaY"
+version = "5BfmZHcz"

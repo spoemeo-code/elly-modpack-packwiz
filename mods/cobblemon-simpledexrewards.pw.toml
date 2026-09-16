@@ -1,0 +1,13 @@
+name = "Cobblemon: SimpleDexRewards"
+filename = "SimpleDexRewards-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8mlZKxv/versions/youwkItE/SimpleDexRewards-1.1.8.jar"
+hash-format = "sha512"
+hash = "be42b157a2c90e46a3e9e5d329dfc39cb7426a1d2b471564f422517a5e52456f1c3df73d34edce94e69d63fb70699719089ea0b0076d66c3d2182f34554740a0"
+
+[update]
+[update.modrinth]
+mod-id = "p8mlZKxv"
+version = "youwkItE"

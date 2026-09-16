@@ -1,0 +1,13 @@
+name = "Mino++"
+filename = "minopp-1.4.0+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QitwNm0/versions/bNAG5veK/minopp-1.4.0%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "630a98aac2b1535bd39f212c584bfeb1c29af5f8d36bacd15d13f8ef9b3dd0380ae0409a45876348b1d13725c92207def9209bdc27b24538dcd99cf706305787"
+
+[update]
+[update.modrinth]
+mod-id = "4QitwNm0"
+version = "bNAG5veK"

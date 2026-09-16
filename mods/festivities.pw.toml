@@ -1,0 +1,13 @@
+name = "Festivities"
+filename = "festivities-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iyVr3Gnr/versions/GsBjsple/festivities-1.0.2.jar"
+hash-format = "sha512"
+hash = "5ad27c44cfda71ef86ab1e70b7305984629dfb2c8e01be24e8b642d1074d143f1e08ee9d6c96924a283ff3efb0106a7cd103408a49a8c33efe6108de5d11b6b3"
+
+[update]
+[update.modrinth]
+mod-id = "iyVr3Gnr"
+version = "GsBjsple"

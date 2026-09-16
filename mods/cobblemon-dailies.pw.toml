@@ -1,0 +1,13 @@
+name = "Cobblemon Dailies"
+filename = "cobblemon_dailies-fabric-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpVff6b8/versions/f2YzPEgl/cobblemon_dailies-fabric-1.21.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "0328d31f5db0fa3da3030769b97ff7c8025093d16fbe09cafd87953a1b126aacd8658984409dc5e82ad72cbe848c754740552cea5ec2c7f1ecf360b9628d24ee"
+
+[update]
+[update.modrinth]
+mod-id = "wpVff6b8"
+version = "f2YzPEgl"

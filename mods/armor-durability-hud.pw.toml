@@ -1,0 +1,13 @@
+name = "Armor Durability HUD"
+filename = "armorhud-8.1-1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAG5PWoN/versions/blk59lGk/armorhud-8.1-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "2c5e685837e69a8b3f997dc6cb94d06fc21ab45c4a5efa576ef08fd17656fa0cc982516ac91b40d6c64ca3c02ffcb44e55a3a0f393c5e5b6cca4d3eb0c248a73"
+
+[update]
+[update.modrinth]
+mod-id = "hAG5PWoN"
+version = "blk59lGk"

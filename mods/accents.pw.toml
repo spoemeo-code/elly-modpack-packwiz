@@ -1,0 +1,13 @@
+name = "Accents"
+filename = "accents-fabric-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALx4O2Q/versions/odDbfDw9/accents-fabric-1.21.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "6dd542e9d6e9663d1a46dbe0d5659000b3cec5714f0402be37cf7a9922e131c26d8b96e6a89ed81040f144ed9ea9aefed2c94fc9ffb02cb72824e5e988ddb2b9"
+
+[update]
+[update.modrinth]
+mod-id = "fALx4O2Q"
+version = "odDbfDw9"

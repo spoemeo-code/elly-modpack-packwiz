@@ -1,0 +1,13 @@
+name = "Bountiful Fares"
+filename = "bountifulfares-fabric-1.21.1-3.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YgrSDjlb/versions/bC1mCe1G/bountifulfares-fabric-1.21.1-3.0.12.jar"
+hash-format = "sha512"
+hash = "62a1af7b34c045326bcfc787e143c1cfa8ab0f1a60ee3cb766a656a8e80fed2219354997da94d364c72d8fac1d3b7d1d497b038490678c5b691e6b8a74ca4ecc"
+
+[update]
+[update.modrinth]
+mod-id = "YgrSDjlb"
+version = "bC1mCe1G"

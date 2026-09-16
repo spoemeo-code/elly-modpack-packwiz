@@ -1,0 +1,13 @@
+name = "Aures - Farmers Structures"
+filename = "FarmersStructures-1.0.0-1.21_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYGRt6QB/versions/IOie8jHS/FarmersStructures-1.0.0-1.21_fabric.jar"
+hash-format = "sha512"
+hash = "c390302f46d332bacbcddc1ba86277de797a005c1f73819feadb1a2301bcf472fbb513a8578bd062767bf4e2d7513c00a3b910cb1c05fc48625c414ab26b5c6c"
+
+[update]
+[update.modrinth]
+mod-id = "iYGRt6QB"
+version = "IOie8jHS"

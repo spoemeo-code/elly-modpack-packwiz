@@ -1,0 +1,13 @@
+name = "Achievements 260+"
+filename = "achievements-fabric 1.21.1-17.10.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bnNJHw3R/versions/hCQ5hh0O/achievements-fabric%201.21.1-17.10.16.jar"
+hash-format = "sha512"
+hash = "5184d19ce7547297d641ea55220142e6a2bc2fc997f693dd89787151529e556449be4ee729edc3522e7a5b3e97ae6f68a51d57efbdaee458503f590063af80ed"
+
+[update]
+[update.modrinth]
+mod-id = "bnNJHw3R"
+version = "hCQ5hh0O"

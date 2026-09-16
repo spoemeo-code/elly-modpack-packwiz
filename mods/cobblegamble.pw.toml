@@ -1,0 +1,13 @@
+name = "Cobblemon Gamble"
+filename = "gamblepokemon-3.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4fOOHc8/versions/rC2bzg5e/gamblepokemon-3.2.0.jar"
+hash-format = "sha512"
+hash = "f57244f6430a924bd20cb3d6cb608c193b24d36e78f33c846a196bea61d53c7add26bf1b837c90c163194cafef6e90c5bfa8c0152f31f8613872c959c3bc8401"
+
+[update]
+[update.modrinth]
+mod-id = "u4fOOHc8"
+version = "rC2bzg5e"

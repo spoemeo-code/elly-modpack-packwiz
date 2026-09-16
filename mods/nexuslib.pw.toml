@@ -1,0 +1,13 @@
+name = "NexusLib"
+filename = "nexuslib-fabric-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bgDhVmqz/versions/kOJuiMkN/nexuslib-fabric-1.21.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "c1d4cbb49f5dd60460a936a756b9acf815daa049f535e1316a3fabaabce35f68539024b3c32b8e533b36ca4fd7fd81eb6e63b442e5629bb3cb7ecaeb19f378a9"
+
+[update]
+[update.modrinth]
+mod-id = "bgDhVmqz"
+version = "kOJuiMkN"

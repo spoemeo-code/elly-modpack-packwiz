@@ -1,0 +1,13 @@
+name = "Ad Astra"
+filename = "adastra-1.21.1-1.16.26-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/R1Zh2VaO/adastra-1.21.1-1.16.26-fabric.jar"
+hash-format = "sha512"
+hash = "6857fe7a507c6785d776338c0ada85af6e3e27f1eb9cee925d8ab90852b5d14145865325d1c47ef77f54b29bad5d38907ba014c482fe081ab94b4fef96823fe2"
+
+[update]
+[update.modrinth]
+mod-id = "3ufwT9JF"
+version = "R1Zh2VaO"

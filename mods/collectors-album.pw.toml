@@ -1,0 +1,13 @@
+name = "Collectors Album"
+filename = "collectorsalbum-fabric-2.8.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4pdmGHx9/versions/5r0fW0T3/collectorsalbum-fabric-2.8.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8861e1fea6ba15c8caf74b9623463368a393c82be6ddf614640f54f7a3a8836fe0ff7c7173b51e90629a85cb1621baea00a2100981dc8ca6cdfc7e3f667e3139"
+
+[update]
+[update.modrinth]
+mod-id = "4pdmGHx9"
+version = "5r0fW0T3"

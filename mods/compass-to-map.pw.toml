@@ -1,0 +1,13 @@
+name = "Compass to Map: JourneyMap"
+filename = "compass2map-2.0.3-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6HhXts4/versions/UcJ8PLuy/compass2map-2.0.3-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "d3506365e4ea9f4b1444f1d663e459a38bb276eb373cdb5b6a761357d6e327a9e52e6527bd4f96caa2262ca9d1865565ba775465c963eda7662e1ec2d1bcf9bc"
+
+[update]
+[update.modrinth]
+mod-id = "Y6HhXts4"
+version = "UcJ8PLuy"

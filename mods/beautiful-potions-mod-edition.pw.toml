@@ -1,0 +1,13 @@
+name = "Beautiful Potions [MOD EDITION]"
+filename = "BTP-Fabric-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3a6cFKr/versions/2fCHrYRx/BTP-Fabric-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "5f68fb432070610b9e7f0892e960ce659d40fba7bece9b074e4b785c776268b34c2579bd2419887706bed68c9e9bf734088f6eeb6a185af8673e2620114f8114"
+
+[update]
+[update.modrinth]
+mod-id = "H3a6cFKr"
+version = "2fCHrYRx"
