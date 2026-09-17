@@ -1526,6 +1526,11 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
 file = "skins_public/wife.png"
 hash = "8cbff4990a94598a36236f8cb4640518842ce4137c3efe471450d4ba5bf52ff0"
 
