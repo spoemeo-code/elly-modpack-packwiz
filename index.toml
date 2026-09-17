@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
+preserve = true
+
+[[files]]
 file = "mods/accents.pw.toml"
 hash = "71a6b82fb1f8ad3ad3cdec07b681098202931f2d4c9a4438a80cbee28e6e765b"
 metafile = true
@@ -1526,8 +1531,48 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "7f7f8f2257d19a508116d2fe662cce1fe1c1c6dd3dc9cc2643581eb03cb30b02"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "fed6df918cbbd83592498c02cadace1b8e82d32ed808772f5daafb12b2dd035b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "8b478cddc565e190218616a347e172f3207e184f47ab9cf5fed80d64d6073332"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "43c4f5e052b72a8ceaf9d8e5d1000760464d4f0e9d630827140ec4dcb21832e6"
 metafile = true
 
 [[files]]
