@@ -456,6 +456,11 @@ hash = "177daaf001a8ed771e725da1a5bde6112c3184971cf38e51a603cdd08f4446ab"
 metafile = true
 
 [[files]]
+file = "mods/cutscene-api.pw.toml"
+hash = "434bce03e6609f060a5be31892616d18515828c7542cf7986662e5b2d5c17fd8"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "5a81664794c90a37cadb6f55bba2b9da4023054d7b48fb244d8c87d5fb2c6949"
 metafile = true

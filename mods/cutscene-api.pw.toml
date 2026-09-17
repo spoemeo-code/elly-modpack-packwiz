@@ -1,0 +1,13 @@
+name = "Cutscene API"
+filename = "cutscene-api-mc1.21.1-fabric-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R54NT4it/versions/q59P2WFk/cutscene-api-mc1.21.1-fabric-1.6.6.jar"
+hash-format = "sha512"
+hash = "84cb22dfd7767ceef7e3de257e2963d15801f48478927eb8557f410e9c1f26c9c9be2a07382fcd4122e4f772fe0c7e398950a50efb1404fefbb55a3d3eca3164"
+
+[update]
+[update.modrinth]
+mod-id = "R54NT4it"
+version = "q59P2WFk"
