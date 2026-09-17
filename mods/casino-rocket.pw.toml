@@ -3,11 +3,6 @@ filename = "casinorocket-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lk3EWIOE/versions/cNABNHK1/casinorocket-1.0.0.jar"
+url = "https://github.com/spoemeo-code/elly-modpack-packwiz/releases/download/v1.0.0/casinorocket-1.0.0-patched.jar"
 hash-format = "sha512"
-hash = "6c2a108cae5421b54edc2e57c1fb5bf7cfd4f523cc2ce1af4b4cf49c2c8420bdf3fabe644902d4261c1a5522ac55c140a715c34821f3285ab9e3f6cfb03d174a"
-
-[update]
-[update.modrinth]
-mod-id = "Lk3EWIOE"
-version = "cNABNHK1"
+hash = "d8eac05d7575b5594f3d8365f8960512be81dadf02be35a4c2453ed792b0331de3f3142dfae3ca28c4459106e56940e45a809bb2b263fff190eb45b172f7f252"
