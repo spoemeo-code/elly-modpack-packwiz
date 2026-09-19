@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/casinorocket/slot_machine.json"
+hash = "7421a14a7381658f1efafd19e56c8085104fea8ecd9327406808060227c1d312"
+
+[[files]]
 file = "config/iris.properties"
 hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
 preserve = true
@@ -298,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-leaderboards.pw.toml"
 hash = "2507252f46ddb0695de53e04881afac58833d0c11bafe0274c0599f56fd5033a"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
-hash = "dcddd73570fb0fdf95b42ed571983ad923612309c723e030b0875ea003fab8f1"
 metafile = true
 
 [[files]]
