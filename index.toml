@@ -1545,6 +1545,10 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/CCC-Legendary-Models.zip"
+hash = "5ce83dc4693368d8035b4bde33b8084e9b6a834ae6169d1cdb047da90fa89b41"
+
+[[files]]
 file = "resourcepacks/MissingMons-Resources.zip"
 hash = "69e07b5f0beabc6f47396e74f2590b354d6187f0861bf045b5b9ce97e4cb5b46"
 
