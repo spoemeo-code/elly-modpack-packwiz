@@ -550,6 +550,11 @@ hash = "dd9c7893c79d19827eab2b1dfaa3ac7ba7c4ea4471db1a8a3d018ba1b1df2cfb"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "ea42faf9e2aa08a3b6b7722299e9c3269fd6d7232fcfb58c1818df62bf94f224"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "d89483c958cd60bed1d7d3dbdf9179b78efec6d2606667e99feb1abc3689b4b8"
 metafile = true
