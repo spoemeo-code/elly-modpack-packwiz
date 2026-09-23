@@ -1619,3 +1619,8 @@ hash = "8cbff4990a94598a36236f8cb4640518842ce4137c3efe471450d4ba5bf52ff0"
 [[files]]
 file = "skins_public/wife2.png"
 hash = "e12eac579f293fa808eeb1b0696552969516756db44a3e3d1e4447eeb2a7ae79"
+
+[[files]]
+file = "servers.dat"
+hash = "a9a2ac518a22814f4ec7d8743e3867b8727309889e5aa2a2faa33f665b1ec92b"
+preserve = true
