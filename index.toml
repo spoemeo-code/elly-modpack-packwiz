@@ -615,6 +615,11 @@ hash = "995014c1a601152fe8e01745d1a8f236a331dd07f0dcde814b8b5d4caa75186e"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "41847ee47330e54e00164f68f59f6fbc9e6908bf1dd048367c8dd7f7517ed7a3"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
