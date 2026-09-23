@@ -540,6 +540,10 @@ hash = "828d89788e3afcbdb42bff8900e2042cc76bad80bb63956c7a2a9f7f98831f54"
 metafile = true
 
 [[files]]
+file = "mods/elly-npc-skins-2026.9.24.jar"
+hash = "6d2125e6bd57d025a741b754da4d366f2ab9c3a4420c53f00957156888238a7d"
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
 metafile = true
@@ -1568,6 +1572,11 @@ file = "resourcepacks/MissingMons-Resources.zip"
 hash = "69e07b5f0beabc6f47396e74f2590b354d6187f0861bf045b5b9ce97e4cb5b46"
 
 [[files]]
+file = "servers.dat"
+hash = "a9a2ac518a22814f4ec7d8743e3867b8727309889e5aa2a2faa33f665b1ec92b"
+preserve = true
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
@@ -1619,8 +1628,3 @@ hash = "8cbff4990a94598a36236f8cb4640518842ce4137c3efe471450d4ba5bf52ff0"
 [[files]]
 file = "skins_public/wife2.png"
 hash = "e12eac579f293fa808eeb1b0696552969516756db44a3e3d1e4447eeb2a7ae79"
-
-[[files]]
-file = "servers.dat"
-hash = "a9a2ac518a22814f4ec7d8743e3867b8727309889e5aa2a2faa33f665b1ec92b"
-preserve = true
