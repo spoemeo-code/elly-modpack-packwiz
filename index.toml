@@ -556,8 +556,8 @@ file = "mods/elly_holdem-0.1.2.jar"
 hash = "3127769f6230eec537cc634cdad7dbf1a79aec5000ef4f89a6e79ff9ec2172c7"
 
 [[files]]
-file = "mods/elly_ko_fix-1.0.1.jar"
-hash = "c777e6bde3be6bb6487877103fea49c079d71b929adad27e4f8c83a115089316"
+file = "mods/elly_ko_fix-1.0.2.jar"
+hash = "a545724d16afa32fa436776984f600e52d542fd5a27366240274cd65229e2262"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
