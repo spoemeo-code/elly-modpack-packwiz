@@ -1,13 +1,13 @@
 name = "Simply Swords"
-filename = "simplyswords-fabric-1.63.0-1.21.1.jar"
+filename = "simplyswords-fabric-1.70.2-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/gcFhYOoT/simplyswords-fabric-1.63.0-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/3uFjo0ii/simplyswords-fabric-1.70.2-1.21.1.jar"
 hash-format = "sha512"
-hash = "95231b5c2ff5cc01e4dae13f82bb5fd2cec9d683c211f8c6e2df498f5763d75c1c1156717be9ba3490623d06b0783bd823ea8614d05694642a4de3c4a78a67dc"
+hash = "96159716b66e3f0f4bd38fd4f1796a66daff95d44ccb68ddaf0aaa7178a8ee445866c7355779b84b706a6eab1989b2a453374280c4b1f762759ca8fc8f2ff445"
 
 [update]
 [update.modrinth]
 mod-id = "bK3Ubu9p"
-version = "gcFhYOoT"
+version = "3uFjo0ii"

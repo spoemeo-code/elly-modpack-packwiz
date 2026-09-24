@@ -1292,12 +1292,12 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "a997e181a73422d3e925be36092e4470346b470a8de288f50f79df5e967253ee"
+hash = "e21c031845dcc1a21186d278be5f51f9b901b23da9661a227d8f38b27a92f340"
 metafile = true
 
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
-hash = "ec146b1e134888f9c77932b2fa03890e1d79d6838c0fb8c105fd4de6e61a5716"
+hash = "e2319f2f3adf72a80c5af8f7eea1986424478d31e0970707f17701d397faaa1f"
 metafile = true
 
 [[files]]
