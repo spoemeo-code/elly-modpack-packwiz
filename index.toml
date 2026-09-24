@@ -552,8 +552,8 @@ file = "mods/elly-npc-skins-2026.9.24.jar"
 hash = "a4d4587ec581d3676382a8ac8bcee5b66b01783c51253dbade0d01469745d4b0"
 
 [[files]]
-file = "mods/elly_holdem-0.1.0.jar"
-hash = "8e8c8525961ad294be5f3e3702977f8301e2c560d1956aa349872d9b2279fb02"
+file = "mods/elly_holdem-0.1.1.1.jar"
+hash = "1394684c60d755ae2f67bf15b60d903eefa9a2e21767af2c276ae346803a0df5"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
