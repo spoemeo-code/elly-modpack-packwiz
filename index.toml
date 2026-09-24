@@ -303,6 +303,11 @@ hash = "588cea5c4957c468d3cb0394881f9ca0a4f4dbdb286b9c8086601c2aa21acd5e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-extended-battle-ui.pw.toml"
+hash = "e3cfbaf6edbf48a5f2e210a21ac19e689f1e1e8aaf0e27f419d5cc60a13b363e"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "ea9a2ff3b7c7c3ebd0214b32fd74d2b4a6b21798e85108b60d19de35b625326d"
 metafile = true

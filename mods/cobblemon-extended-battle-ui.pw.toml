@@ -1,0 +1,13 @@
+name = "Cobblemon: Extended Battle UI"
+filename = "cobblemonextendedbattleui-0.10.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ry6cHJdV/versions/MfhEFE6x/cobblemonextendedbattleui-0.10.0.jar"
+hash-format = "sha512"
+hash = "f5866313bf6faf5428b82fb7956ef454b89922e0795dc5b22e1995832df2c0cc7c66c9b6bf22247818498b425e5f04e48f5bac8113865fb7f9bd51594cdf8b2d"
+
+[update]
+[update.modrinth]
+mod-id = "ry6cHJdV"
+version = "MfhEFE6x"
