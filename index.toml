@@ -10,6 +10,14 @@ hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
 preserve = true
 
 [[files]]
+file = "config/playerattributescreen/client.toml"
+hash = "dbd4e01ada4d56ad8afdcf06e2941679cca11fd4a32dd39aaec391e1e836c26f"
+
+[[files]]
+file = "config/playerattributescreen/server.toml"
+hash = "e18c60c5852c153dd7e0221ed915ee449614964da4e4580bd9d7088ae28e0706"
+
+[[files]]
 file = "mods/accents.pw.toml"
 hash = "71a6b82fb1f8ad3ad3cdec07b681098202931f2d4c9a4438a80cbee28e6e765b"
 metafile = true
@@ -541,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/elly-npc-skins-2026.9.24.jar"
-hash = "6d2125e6bd57d025a741b754da4d366f2ab9c3a4420c53f00957156888238a7d"
+hash = "a4d4587ec581d3676382a8ac8bcee5b66b01783c51253dbade0d01469745d4b0"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
@@ -979,6 +987,11 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "ae4ddf73582eded7bfee473997833d86802807d6a0f9f768095dfd01ac944bb4"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "4dbe622653746a01557da046d01186320a4dda8fc8cb26679121c2892d98f018"
 metafile = true
@@ -1156,6 +1169,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "246e7782ef2cab501af48f56353de9d6a46f3479dcb12f282152eeacd03b7e60"
+metafile = true
+
+[[files]]
+file = "mods/player-attribute-screen.pw.toml"
+hash = "009c51aa980d31c79e0b41521b145fb10f637eccd8fcd4ffea400bcc0f66bab5"
 metafile = true
 
 [[files]]

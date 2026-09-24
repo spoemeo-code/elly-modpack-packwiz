@@ -1,0 +1,28 @@
+show_attribute_screen_when_opening_inventory_screen = false
+attribute_screen_configuration = [
+    "STRING:내 능력치",
+    "EMPTY_LINE",
+    "ATTRIBUTE_VALUE:minecraft:generic.max_health",
+    "ATTRIBUTE_VALUE:minecraft:generic.armor",
+    "ATTRIBUTE_VALUE:minecraft:generic.armor_toughness",
+    "ATTRIBUTE_VALUE:minecraft:generic.attack_damage",
+    "ATTRIBUTE_VALUE:minecraft:generic.knockback_resistance",
+    "ATTRIBUTE_VALUE:minecraft:generic.explosion_knockback_resistance",
+    "ATTRIBUTE_VALUE:minecraft:generic.luck",
+    "EMPTY_LINE",
+    "ATTRIBUTE_VALUE:minecraft:generic.movement_speed",
+    "ATTRIBUTE_VALUE:minecraft:generic.jump_strength",
+    "ATTRIBUTE_VALUE:minecraft:generic.step_height",
+    "ATTRIBUTE_VALUE:minecraft:generic.safe_fall_distance",
+    "ATTRIBUTE_VALUE:minecraft:generic.oxygen_bonus",
+    "ATTRIBUTE_VALUE:minecraft:generic.water_movement_efficiency",
+    "ATTRIBUTE_VALUE:minecraft:generic.burning_time",
+    "ATTRIBUTE_VALUE:minecraft:player.sneaking_speed",
+    "EMPTY_LINE",
+    "ATTRIBUTE_VALUE:minecraft:player.mining_efficiency",
+    "ATTRIBUTE_VALUE:minecraft:player.block_break_speed",
+    "ATTRIBUTE_VALUE:minecraft:player.submerged_mining_speed",
+    "ATTRIBUTE_VALUE:minecraft:player.sweeping_damage_ratio",
+    "ATTRIBUTE_VALUE:minecraft:player.block_interaction_range",
+    "ATTRIBUTE_VALUE:minecraft:player.entity_interaction_range"
+]
