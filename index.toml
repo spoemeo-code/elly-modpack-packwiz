@@ -10,6 +10,18 @@ hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
 preserve = true
 
 [[files]]
+file = "config/paxi-fabric-1_21.toml"
+hash = "7a85bd7d885ce713ee5ef1a2b5da6a70a4a1cd77ff245cb85672ee1c32ff73d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/CCC-Legendary-Models.zip"
+hash = "6ba2f6e5794f390652ff3243ea50b57ebef5220c419f564c7d442f758f9bfa3b"
+
+[[files]]
+file = "config/paxi/resourcepacks/MissingMons-Resources.zip"
+hash = "69e07b5f0beabc6f47396e74f2590b354d6187f0861bf045b5b9ce97e4cb5b46"
+
+[[files]]
 file = "config/playerattributescreen/client.toml"
 hash = "dbd4e01ada4d56ad8afdcf06e2941679cca11fd4a32dd39aaec391e1e836c26f"
 
@@ -1168,6 +1180,11 @@ hash = "e85d27665a47635e5311c50b2f0a71a961cba6e4128e944fc3ada25e0f74d8a6"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "f62a335d74466175cff3fa90ff5f84f4ad2d29561cc0ecea5a171cd4f6202f64"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "89113f42aaa1bb566bdc488bc41b9135caf31023faf1e240e1fc1c5a30764f39"
 metafile = true
@@ -1606,14 +1623,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
-
-[[files]]
-file = "resourcepacks/CCC-Legendary-Models.zip"
-hash = "6ba2f6e5794f390652ff3243ea50b57ebef5220c419f564c7d442f758f9bfa3b"
-
-[[files]]
-file = "resourcepacks/MissingMons-Resources.zip"
-hash = "69e07b5f0beabc6f47396e74f2590b354d6187f0861bf045b5b9ce97e4cb5b46"
 
 [[files]]
 file = "servers.dat"
