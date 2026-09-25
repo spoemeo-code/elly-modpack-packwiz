@@ -553,8 +553,8 @@ hash = "828d89788e3afcbdb42bff8900e2042cc76bad80bb63956c7a2a9f7f98831f54"
 metafile = true
 
 [[files]]
-file = "mods/elly-npc-skins-2026.9.24.jar"
-hash = "a4d4587ec581d3676382a8ac8bcee5b66b01783c51253dbade0d01469745d4b0"
+file = "mods/elly-npc-skins-2026.9.25.7.jar"
+hash = "de618649d689e27db9341929c78509ca67275ebd35cf5f26985cc09742319214"
 
 [[files]]
 file = "mods/elly_holdem-0.1.2.jar"
