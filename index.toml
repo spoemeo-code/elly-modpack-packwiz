@@ -1598,6 +1598,11 @@ hash = "57ae99f727e3fcd7a1abbc624bf14cafa5f092f2082dcf3edc609289efb25c15"
 metafile = true
 
 [[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "5b46083559d22ae4c4f11d22ae98713a2765d8b1e6d2a094aef0c55e37abe592"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
