@@ -5,6 +5,10 @@ file = "config/casinorocket/slot_machine.json"
 hash = "7421a14a7381658f1efafd19e56c8085104fea8ecd9327406808060227c1d312"
 
 [[files]]
+file = "config/cobblemonextendedbattleui/cobblemonextendedbattleui.json"
+hash = "6097faf1c09be752a2685f04b14481a68c2f1d938c781c321902f274190e65b8"
+
+[[files]]
 file = "config/iris.properties"
 hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
 preserve = true

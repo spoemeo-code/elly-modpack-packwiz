@@ -1,0 +1,20 @@
+{
+  "enableTeamIndicators": true,
+  "enableBattleInfoPanel": true,
+  "enableBattleLog": true,
+  "enableBattleLogDamagePercentages": true,
+  "enableMoveTooltips": true,
+  "fontScale": 0.7,
+  "startExpanded": false,
+  "logFontScale": 0.7,
+  "logExpanded": false,
+  "teamIndicatorOrientation": "HORIZONTAL",
+  "teamIndicatorScale": 1.0,
+  "teamIndicatorRepositioningEnabled": true,
+  "tooltipFontScale": 1.0,
+  "moveTooltipFontScale": 1.0,
+  "showTeraType": true,
+  "showStatRanges": true,
+  "showOpponentSpeedRange": true,
+  "showBaseCritRate": true
+}
