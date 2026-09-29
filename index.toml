@@ -639,8 +639,8 @@ file = "mods/elly_dialog-0.1.4.jar"
 hash = "b1bc12797db3c9fd98daadf60d12c0ed82b9c5c50f54c87bc887809cace5d0ab"
 
 [[files]]
-file = "mods/elly_holdem-0.1.4.jar"
-hash = "a0f1f33d0fc8fd4c0a9fc8c413131607b88053148c51d80413bbd9ec8542a0b7"
+file = "mods/elly_holdem-0.1.6.jar"
+hash = "2e200da05c350a1c01f15ad8cb3441a9dd55f7a59feee3371fe7f898ab4850ca"
 
 [[files]]
 file = "mods/elly_ko_fix-1.0.2.jar"
