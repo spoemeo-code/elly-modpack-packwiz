@@ -1,0 +1,13 @@
+name = "Simply Bows"
+filename = "SimplyBows-fabric-0.1.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lkqOlxmM/versions/K076DIZj/SimplyBows-fabric-0.1.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "f29960ccc41ed004f7dab8fb742ede8f69baed3cffb21ce8490a2f4e1d7d7382ba5fc33377972f5462554502cfc6990859d17a7aab1c58042023af967ca28e3c"
+
+[update]
+[update.modrinth]
+mod-id = "lkqOlxmM"
+version = "K076DIZj"

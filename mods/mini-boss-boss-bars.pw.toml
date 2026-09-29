@@ -1,0 +1,13 @@
+name = "Mini-boss Boss Bars"
+filename = "Mini-boss Boss Bars 1.21.1 1.0.36.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A8rzsSSb/versions/nmMNy3a4/Mini-boss%20Boss%20Bars%201.21.1%201.0.36.jar"
+hash-format = "sha512"
+hash = "0b6816b2f3622db245d12cdf34b7b0cc74ea45c6604c945e9e8311423ed4314a5ba0ce619dfd0b3eb02f25266034c9c890ccb530f0929599f6443b88e9a26b8c"
+
+[update]
+[update.modrinth]
+mod-id = "A8rzsSSb"
+version = "nmMNy3a4"

@@ -1,0 +1,13 @@
+name = "Shield Expansion"
+filename = "shieldexp-fabric-1.21.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sjxWxSao/versions/qDyf2kOI/shieldexp-fabric-1.21.1-1.4.3.jar"
+hash-format = "sha512"
+hash = "b13baac5c8c1aa2136dbed28d3d11813b2ac3fe183577df3783de9e0e1e76ae02074ce65b61ca826e6f5f5297bd7166b74181633a064297c4faa192a307cedee"
+
+[update]
+[update.modrinth]
+mod-id = "sjxWxSao"
+version = "qDyf2kOI"

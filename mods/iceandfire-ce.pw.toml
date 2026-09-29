@@ -1,0 +1,13 @@
+name = "IceAndFire Community Edition"
+filename = "IceAndFireCE-2.0-beta.15-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a67523932e8485df16b17d00635c66ae080e6c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7722413
+project-id = 1040076

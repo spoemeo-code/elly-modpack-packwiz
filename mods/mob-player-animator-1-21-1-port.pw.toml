@@ -1,0 +1,13 @@
+name = "Mob Player Animator Neoforge Port"
+filename = "mobplayeranimator-fabric-1.21.1-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8953091a5eff4b0fbc2bf0278de049639859b0fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8726986
+project-id = 1605088
