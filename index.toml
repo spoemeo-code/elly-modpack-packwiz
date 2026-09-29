@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
 metafile = true
 
 [[files]]
@@ -828,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/icarus.pw.toml"
 hash = "3839ee391a2ae0ccfd0be541fb5d0e286f89100b9ace922e463b15c94f674a9e"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons-x-better-combat.pw.toml"
+hash = "bd9b481946f4fa0ab5b258fc25ab9b154a83856c913584e2ea5ccba3632c16f5"
 metafile = true
 
 [[files]]
@@ -1028,6 +1033,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations-dungeonz.pw.toml"
 hash = "b47c4ce6dcd743cd525ba5e5990797f8f74cd200f65a74be3e22bb1b4aca7f7d"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-ice-and-fire.pw.toml"
+hash = "02cbe39c4a25b6c93f32370c37cb43d3d8e24b2ed3e6b6bdd700dfd800972543"
 metafile = true
 
 [[files]]
