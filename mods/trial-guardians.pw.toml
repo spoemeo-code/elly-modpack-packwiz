@@ -1,0 +1,13 @@
+name = "Trial Guardians"
+filename = "trial_guardians-fabric-2.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b268290513fc39898d1642720262eb5fbc32467"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8641820
+project-id = 1534320

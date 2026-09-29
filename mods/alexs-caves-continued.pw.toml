@@ -1,0 +1,13 @@
+name = "Alex's Caves Continued"
+filename = "alexscaves-1.1.1-fabric+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cO2CvXug/versions/9QcjEN4f/alexscaves-1.1.1-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "582e0fc4b348c643fa16d476dbcf545b86734f0577fee7077a6a210e82013648e42f7844daa9ac16f2269bfbd01ab4311c3cd21d898d7fe639ffee0d6f4b87ea"
+
+[update]
+[update.modrinth]
+mod-id = "cO2CvXug"
+version = "9QcjEN4f"

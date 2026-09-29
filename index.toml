@@ -61,6 +61,16 @@ hash = "dc7aa55a6be5bfbc32cf28e6105ba4ed53338bd652c1fb37ef3d35ca47689e61"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-continued-delight.pw.toml"
+hash = "a14cd621c83dded4bd28ef9826843e8e40ab3128885ce5a5db48938168eff96e"
+metafile = true
+
+[[files]]
+file = "mods/alexs-caves-continued.pw.toml"
+hash = "600d936f5dc9af70e681de79c9e2977f9da487d836eccda286c251bfe249ffe2"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
 hash = "25c8dfabed2f58f42fddb8c22782b0faa04fdbbeecc7f8d3ef642dcea092d345"
 metafile = true
@@ -97,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
+hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
 
 [[files]]
@@ -136,6 +146,11 @@ hash = "0f0fd516b5cf04e5a4acd56006c9ea841f47157be2d0f0366205cf2422aaca19"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "769eafbca43ec9e404146567bc2605c2a668cf86b7d127abf2fdde3b3014cc76"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "de7bb9eecb68ac760a184374d6c59f24fa905ab11983a0f92b65113ad9d54c9a"
 metafile = true
@@ -168,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
+metafile = true
+
+[[files]]
+file = "mods/better-party-x-xaeros-world-map.pw.toml"
+hash = "acce8708e09b43e5386c1f4fbe1bb43b39bfe82de57d285d20af62d8b391aee3"
+metafile = true
+
+[[files]]
+file = "mods/better-party.pw.toml"
+hash = "ed61457326ea61dd4c53629cb75052e6e0be42cb3b92639f70e3b1eb305cfb38"
 metafile = true
 
 [[files]]
@@ -633,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
 metafile = true
 
 [[files]]
@@ -749,6 +774,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "f272388b6a0b00e9ce7ddc5fbb029e9ad77afb5eb3925c020de42707e495ffe8"
+metafile = true
+
+[[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "c512261d5fe7ea0c6d96b7033f21857513db4806f19be615163edbbf73257c8c"
 metafile = true
 
 [[files]]
@@ -1444,6 +1474,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
+metafile = true
+
+[[files]]
+file = "mods/trial-guardians.pw.toml"
+hash = "0dacb9ab143d0242cd8fec84b46fde74ee76e8dda307071884ca89f5a3531b65"
 metafile = true
 
 [[files]]
