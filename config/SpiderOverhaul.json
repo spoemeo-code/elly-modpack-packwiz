@@ -1,0 +1,9 @@
+{
+  "spawnWeightMultiplier": 0.3,
+  "replaceVanillaSpiders": true,
+  "useVanillaModels": true,
+  "hideSpiderLegs": false,
+  "healthMultiplier": 1,
+  "damageMultiplier": 1,
+  "speedMultiplier": 1
+}

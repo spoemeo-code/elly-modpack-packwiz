@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/SpiderOverhaul.json"
+hash = "4a5ca4c63d65741bd379b7d1e7d57d8d8a6e238a5afd726a41c713818349869a"
+
+[[files]]
+file = "config/adventurez.json5"
+hash = "ebc7526ba0fc49f54b92283aedce5300e4cb596441ac427531dc5b3a42d58d12"
+
+[[files]]
 file = "config/casinorocket/slot_machine.json"
 hash = "7421a14a7381658f1efafd19e56c8085104fea8ecd9327406808060227c1d312"
 
@@ -16,6 +24,14 @@ hash = "765fbf96865d1df9b0ab12ba778f9dc43aa8048dd28facc730ca39d1476f66b0"
 file = "config/iris.properties"
 hash = "4cd551159addc4e61b56f4f15c022f143a610131121468a1912dea19328ce79a"
 preserve = true
+
+[[files]]
+file = "config/mebahelcreaturesdraugr/spawn_rate_config.json"
+hash = "06850cdd5c5f474b91ba25cc179362cd1afe394fae448c56fe13c5647cd2d234"
+
+[[files]]
+file = "config/mobz.json5"
+hash = "a7902b0c056562684c4a064bfcc57c9056f885b746af59f95376f6167d7890ab"
 
 [[files]]
 file = "config/playerattributescreen/client.toml"
@@ -1161,11 +1177,6 @@ hash = "4dbe622653746a01557da046d01186320a4dda8fc8cb26679121c2892d98f018"
 metafile = true
 
 [[files]]
-file = "mods/mob-player-animator-1-21-1-port.pw.toml"
-hash = "f3845809a7565505b36a8f0408e021c77a8c0117f6d5188aaae4036f70d816af"
-metafile = true
-
-[[files]]
 file = "mods/mobz.pw.toml"
 hash = "f9ffde015ad9b324bce51c975115bd17e4ab08a79924430f4ebfb5be6e980cbd"
 metafile = true
@@ -1728,11 +1739,6 @@ metafile = true
 [[files]]
 file = "mods/witcher-rpg-class.pw.toml"
 hash = "c3fd5111083fa9f36500e48fee9f15b7312f6088eb4080d3431a31235511bea8"
-metafile = true
-
-[[files]]
-file = "mods/wizard-mobs.pw.toml"
-hash = "b6fdf7fddee7e3c1d16010f14f101c2bd15dda36f73b6e687fe3ae050daaa666"
 metafile = true
 
 [[files]]
