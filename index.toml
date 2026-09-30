@@ -166,6 +166,11 @@ hash = "6efa4c1ebfa76041b8de8630bb3a0ff9552f4e9438df1efcb92894879ea8470a"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
+metafile = true
+
+[[files]]
 file = "mods/aures-farmers-structures.pw.toml"
 hash = "d61f12ee33f1b2c93021317ff7c12ec1bdf67300673db60205a3b01acf786038"
 metafile = true
@@ -677,6 +682,11 @@ hash = "d89483c958cd60bed1d7d3dbdf9179b78efec6d2606667e99feb1abc3689b4b8"
 metafile = true
 
 [[files]]
+file = "mods/energized-power.pw.toml"
+hash = "bcb8b0f1803b9f5ebb0009c4ecf7efec04c1535d31c842f11b1346ceeee4fb8b"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "eb8252941ef1fd3cf0eeb8df8d0a77213f33306cd3a64e8fce0f65e1db9ef76e"
 metafile = true
@@ -698,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
@@ -803,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1368a492f66f774f2fa5a8d4da5a36e617017a45e3f3713d274b2398a284a6ea"
+hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
 metafile = true
 
 [[files]]
@@ -878,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "7c7aa1558a9822ef239c4c471ecf0fd6e439e2abbe9f7c9aafb6cc65c3aebef6"
+hash = "891d9d37315076b47e192aaee1092acdc882358a19b92f58aefee68cca41bf31"
 metafile = true
 
 [[files]]
@@ -1314,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/order-to-cook.pw.toml"
 hash = "690b2e5d9e1cc62d76bc1497efb5b45ba9a8a1e09a7ff272b684afe2b48f7296"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "44ec48148845a0246c1983ddd3bebbecc378709e0663d16139d80e749c7f3fe8"
 metafile = true
 
 [[files]]
