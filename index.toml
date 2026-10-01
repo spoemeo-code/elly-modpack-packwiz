@@ -656,8 +656,8 @@ file = "mods/elly-poke-cosmetics-2026.10.2.2.jar"
 hash = "f8427c81987f7f1821b0a2c58097b4f66be3f7edec2a4cfa831fd22084ee0dff"
 
 [[files]]
-file = "mods/elly_dialog-0.1.14.jar"
-hash = "06788e80648890fb9b625fb78057675ba2d4edd23903e2ebe85816f33f2f5426"
+file = "mods/elly_dialog-0.1.15.jar"
+hash = "1621b7ed23b170fe0428f731427ed2c681eeca3ed011ce3eb8503dfd04bddbd3"
 
 [[files]]
 file = "mods/elly_holdem-0.1.8.jar"
