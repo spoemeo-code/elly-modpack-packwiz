@@ -1564,6 +1564,11 @@ hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "8715f6ab142002ef153f7f725ffdd9d07ded6f1ab4f853f393c5a7ad1683316d"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
 hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
 metafile = true
