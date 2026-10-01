@@ -644,8 +644,8 @@ hash = "828d89788e3afcbdb42bff8900e2042cc76bad80bb63956c7a2a9f7f98831f54"
 metafile = true
 
 [[files]]
-file = "mods/elly-npc-skins-2026.9.30.5.jar"
-hash = "375d1671dcc924a5e2168f831b1bca667e4111c74175464b7e26f7e2f5b5b456"
+file = "mods/elly-npc-skins-2026.10.2.1.jar"
+hash = "2fe573210ad470ca5ed263076b90902eacc4ce2789c64538ceb878d5f717fa8d"
 
 [[files]]
 file = "mods/elly_dialog-0.1.10.jar"
