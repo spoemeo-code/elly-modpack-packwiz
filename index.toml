@@ -652,8 +652,8 @@ file = "mods/elly-npc-skins-2026.10.2.1.jar"
 hash = "2fe573210ad470ca5ed263076b90902eacc4ce2789c64538ceb878d5f717fa8d"
 
 [[files]]
-file = "mods/elly_dialog-0.1.10.jar"
-hash = "7a31554ad5e5d4dfea52abb8cdef566c5e112c07ea5eb1c19fbcc4c47a9e8bde"
+file = "mods/elly_dialog-0.1.13.jar"
+hash = "a9907e3c9c8919300721c5461c75b9e1a336636051c6e17bd4c55da53ac91e4d"
 
 [[files]]
 file = "mods/elly_holdem-0.1.7.jar"
