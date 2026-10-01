@@ -21,6 +21,10 @@ file = "config/cobblemonextendedbattleui/cobblemonextendedbattleui.json"
 hash = "6097faf1c09be752a2685f04b14481a68c2f1d938c781c321902f274190e65b8"
 
 [[files]]
+file = "config/cobblenav/client-config.json"
+hash = "84587156e33f9d44c24e28c834c87b78ff199bde777c19a364e6eeea66b67341"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "1939d0e48b43bd389b48e6680ceb26a26018c3c06599d3c4cbea5073c66064a9"
 
