@@ -1,0 +1,14 @@
+{
+  "states": {
+    "unfocused": {
+      "volume_multipliers": {
+        "master": 1.0
+      }
+    },
+    "invisible": {
+      "volume_multipliers": {
+        "master": 1.0
+      }
+    }
+  }
+}
