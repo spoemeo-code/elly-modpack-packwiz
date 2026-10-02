@@ -648,8 +648,8 @@ hash = "828d89788e3afcbdb42bff8900e2042cc76bad80bb63956c7a2a9f7f98831f54"
 metafile = true
 
 [[files]]
-file = "mods/elly-npc-skins-2026.10.2.2.jar"
-hash = "25d49fe2c89a4de8fcdbbcd0269f0829baefc2c6772768c4e9cddd50bd95bee4"
+file = "mods/elly-npc-skins-2026.10.2.3.jar"
+hash = "05638ece2541c1bb3551f469975d150c16966f26dcdc8587f7547f65a9fe1b89"
 
 [[files]]
 file = "mods/elly-poke-cosmetics-2026.10.2.2.jar"
