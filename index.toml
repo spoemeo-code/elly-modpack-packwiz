@@ -1637,11 +1637,6 @@ hash = "badee074533f5b6d3ff2d097d065ecbb43ea6fce40662b824fca028ebac81ffc"
 metafile = true
 
 [[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "e2dcaa6ddb7112eed2cd97fa1e7084108d7095fe2fea04fa45d9ff305312c655"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "0e3ae775f6caaa4b69262401f8c17735a36f21e942633c6e257dfa20a169e561"
 metafile = true
