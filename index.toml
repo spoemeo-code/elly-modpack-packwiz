@@ -46,6 +46,15 @@ file = "config/mobz.json5"
 hash = "a7902b0c056562684c4a064bfcc57c9056f885b746af59f95376f6167d7890ab"
 
 [[files]]
+file = "config/paxi-fabric-1_21.toml"
+hash = "7a85bd7d885ce713ee5ef1a2b5da6a70a4a1cd77ff245cb85672ee1c32ff73d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/pokopia.pw.toml"
+hash = "20a95c2abebf0d6067b228a5741b33355df17812fb48bcb391c42e809070f9e1"
+metafile = true
+
+[[files]]
 file = "config/playerattributescreen/client.toml"
 hash = "dbd4e01ada4d56ad8afdcf06e2941679cca11fd4a32dd39aaec391e1e836c26f"
 
@@ -1360,6 +1369,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "e85d27665a47635e5311c50b2f0a71a961cba6e4128e944fc3ada25e0f74d8a6"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "f62a335d74466175cff3fa90ff5f84f4ad2d29561cc0ecea5a171cd4f6202f64"
 metafile = true
 
 [[files]]
