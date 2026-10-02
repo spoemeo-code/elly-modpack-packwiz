@@ -20,3 +20,7 @@
 | Alex's Caves Continued Delight | (see Modrinth page) | https://modrinth.com/mod/alexs-caves-continued-delight | CC BY-NC-ND 4.0 | unmodified |
 
 CurseForge에서 받는 모드(35종)는 API에 라이선스 필드가 없어 이 목록에서 자동 조사하지 못했습니다. 필요하면 각 모드의 CurseForge 페이지에서 개별 확인이 필요합니다.
+
+## 글꼴
+
+- 더잠실체 (The Jamsil) — 롯데쇼핑(주) 롯데마트사업부. elly_dialog 모드 안에 원본 TTF 그대로(수정·변환 없음) 포함: The Jamsil 3 Regular, The Jamsil 5 Bold. 라이선스 전문은 jar 안의 assets/elly_dialog/font/the_jamsil_license.pdf.

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CREDITS.md"
-hash = "44000211f13bed9c50338e850815ac3f0a508af9179b5671c367d1915369da06"
+hash = "60d46a3cb8fddcd8bbdd1a276827517911f075c73a239195c783d1fd66e080d1"
 
 [[files]]
 file = "config/SpiderOverhaul.json"
@@ -660,8 +660,8 @@ file = "mods/elly-poke-cosmetics-2026.10.2.2.jar"
 hash = "f8427c81987f7f1821b0a2c58097b4f66be3f7edec2a4cfa831fd22084ee0dff"
 
 [[files]]
-file = "mods/elly_dialog-0.1.25.jar"
-hash = "c8cdc4d50975e7a71904d72e40ef87799be57edb6d1c0c6bb6c279a1ede3cd72"
+file = "mods/elly_dialog-0.1.26.jar"
+hash = "17a6ff47d20fe107db151ab3b335ab2ac79fd419855633c1c0ace4d5716b4f06"
 
 [[files]]
 file = "mods/elly_holdem-0.1.9.jar"
