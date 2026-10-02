@@ -372,11 +372,6 @@ hash = "b61d3783e85f963d6235bf86e0d09a3f9e0030634654b07327600ca6b939d627"
 metafile = true
 
 [[files]]
-file = "mods/cobblegamble.pw.toml"
-hash = "1a7a9d9655c2c71f861e3de07ce40b8fe90d22f4ada90b01a1a38f3112989da8"
-metafile = true
-
-[[files]]
 file = "mods/cobbleloots.pw.toml"
 hash = "41a937c440894e63d809351f395f5966430144e54f271e78a1638d83d61f6698"
 metafile = true
