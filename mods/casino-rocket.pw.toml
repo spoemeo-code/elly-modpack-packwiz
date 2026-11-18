@@ -1,8 +1,0 @@
-name = "Casino Rocket"
-filename = "casinorocket-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/spoemeo-code/elly-modpack-packwiz/releases/download/v1.0.0/casinorocket-1.0.0-patched.jar"
-hash-format = "sha512"
-hash = "d8eac05d7575b5594f3d8365f8960512be81dadf02be35a4c2453ed792b0331de3f3142dfae3ca28c4459106e56940e45a809bb2b263fff190eb45b172f7f252"

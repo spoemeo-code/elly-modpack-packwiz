@@ -17,14 +17,6 @@ file = "config/casinorocket/slot_machine.json"
 hash = "7421a14a7381658f1efafd19e56c8085104fea8ecd9327406808060227c1d312"
 
 [[files]]
-file = "config/cobblemonextendedbattleui/cobblemonextendedbattleui.json"
-hash = "6097faf1c09be752a2685f04b14481a68c2f1d938c781c321902f274190e65b8"
-
-[[files]]
-file = "config/cobblenav/client-config.json"
-hash = "84587156e33f9d44c24e28c834c87b78ff199bde777c19a364e6eeea66b67341"
-
-[[files]]
 file = "config/dynamic_fps.json"
 hash = "1939d0e48b43bd389b48e6680ceb26a26018c3c06599d3c4cbea5073c66064a9"
 
@@ -61,10 +53,6 @@ hash = "dbd4e01ada4d56ad8afdcf06e2941679cca11fd4a32dd39aaec391e1e836c26f"
 [[files]]
 file = "config/playerattributescreen/server.toml"
 hash = "e18c60c5852c153dd7e0221ed915ee449614964da4e4580bd9d7088ae28e0706"
-
-[[files]]
-file = "mods/Cobblemon_extra_move_animation-1.2.1.jar"
-hash = "923a2254ae27ea1398a1cf7e61827999d61d8401100ca0fc28b58617dae7fe9b"
 
 [[files]]
 file = "mods/accents.pw.toml"
@@ -322,14 +310,8 @@ hash = "8b88002d02470c59f0a796aaaab877b16cd5d52b64a20c088c462354737189eb"
 metafile = true
 
 [[files]]
-file = "mods/casino-rocket.pw.toml"
-hash = "deabdeccc86213811737860554edd612386370e9810afc1058e370583796350c"
-metafile = true
-
-[[files]]
-file = "mods/catch-rate-display.pw.toml"
-hash = "aab58784abf7244373810eff5b06a8f870cbdc9c951fa6afaed0e2015291263f"
-metafile = true
+file = "mods/casinorocket-1.0.0-elly1.jar"
+hash = "61f5fef9cd500e5f367e4e5de02d3a214b7d360d732a56acb4aa0b01ff410144"
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
@@ -359,91 +341,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
-metafile = true
-
-[[files]]
-file = "mods/cobble-contests.pw.toml"
-hash = "81281fd4ddcd455c99a25228ea1e8e68e17bd4adc1a0b6ed11fb47936864eda2"
-metafile = true
-
-[[files]]
-file = "mods/cobbleboss.pw.toml"
-hash = "96b3e271264d2fba4427d47a2591f29e6ae027f9cc09210a7577f8d1a51ffe45"
-metafile = true
-
-[[files]]
-file = "mods/cobbledollars.pw.toml"
-hash = "b61d3783e85f963d6235bf86e0d09a3f9e0030634654b07327600ca6b939d627"
-metafile = true
-
-[[files]]
-file = "mods/cobbleloots.pw.toml"
-hash = "41a937c440894e63d809351f395f5966430144e54f271e78a1638d83d61f6698"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-additions.pw.toml"
-hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-battle-tower.pw.toml"
-hash = "42903ffa9569f362e3ab04cc8b6a570f80037293669dc66ee1abdd00607e2020"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "6341282ed9ba482108e0c2a064ef2a8220d74ea95703831360a79ac99c2b0bf6"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-dailies.pw.toml"
-hash = "588cea5c4957c468d3cb0394881f9ca0a4f4dbdb286b9c8086601c2aa21acd5e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-extended-battle-ui.pw.toml"
-hash = "e3cfbaf6edbf48a5f2e210a21ac19e689f1e1e8aaf0e27f419d5cc60a13b363e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "ea9a2ff3b7c7c3ebd0214b32fd74d2b4a6b21798e85108b60d19de35b625326d"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-leaderboards.pw.toml"
-hash = "2507252f46ddb0695de53e04881afac58833d0c11bafe0274c0599f56fd5033a"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-pokenav.pw.toml"
-hash = "beef877ae05ddf412ce68470a80c59fa7fcf66e4eea2aaecdf267e84925c6822"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-simpledexrewards.pw.toml"
-hash = "8f847ef4cf30dd7afae52ef09091976a83d2a1afe15db6511b74f54b2870ea6d"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-tim-core.pw.toml"
-hash = "52c85b3a509ae26947f42bc3bb3900ecec2e0a629e5008e7ae9d50ea52b5154f"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-wab.pw.toml"
-hash = "b681c338c50c5bbb0f5c6d3cc18372d8d1f6b8d60d4abcfef3b509cf179760bf"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "fb8bc7cbb79744dcd9e0232a46db2da1e1cc69b0b08dd33b41978933db8ef3a0"
-metafile = true
-
-[[files]]
-file = "mods/cobbreeding.pw.toml"
-hash = "8f472ad517afe778fa8afbc7d84bad9f69e0e4ff9e83d2d2fca57b006d242b4c"
 metafile = true
 
 [[files]]
@@ -677,6 +574,10 @@ file = "mods/elly_ko_fix-1.0.2.jar"
 hash = "a545724d16afa32fa436776984f600e52d542fd5a27366240274cd65229e2262"
 
 [[files]]
+file = "mods/elly_money-1.0.0.jar"
+hash = "343585ac942d003664c9ecb8ce88e713b24112a582b58e65327681bacefd103c"
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
 metafile = true
@@ -799,21 +700,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "73ba52fce9064dfb0a3b78f1d96354b79c52db7e2a3e8ecc713da6429b4c5723"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "69eafd6e8c4128a6c0aa67b11f274155772f4befb3cad7bdb9c6846158acd7b5"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "e8964c59efae3f8f340fd853a3c7f56915f9c1092a9fb61fe25c0bdd850f82f4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "28cddb0debd848debefee57a51cfab3a859db1fa49bb2d4ba214e80ed0781628"
 metafile = true
 
 [[files]]
@@ -1442,18 +1328,8 @@ hash = "29583ec68be91596c7444b0fcd5609676d4bc0a1d083336fb2c279e3b0e09b3f"
 metafile = true
 
 [[files]]
-file = "mods/radical-gyms-cobblemon.pw.toml"
-hash = "72e3e06137eb1eaa5cc5beed861303e89ff1a9e22825661ecae947c1970a537f"
-metafile = true
-
-[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "ec3714c8aede6cc89a882e2ae84c2a27a57321eea5cc2ca2b9458a6c69f529f4"
-metafile = true
-
-[[files]]
-file = "mods/rctapi.pw.toml"
-hash = "d93776295991e74e5d86b63ea9cbed68ea2f076a619f3afecff51484827760ce"
 metafile = true
 
 [[files]]
@@ -1777,11 +1653,6 @@ hash = "1ff09a2c14154efcdd279c55e2f44ff647f69817a2fad5553c0829e35725c3d5"
 metafile = true
 
 [[files]]
-file = "mods/wild-battle-api.pw.toml"
-hash = "33c55b3295464916bfea16af156b2a87f4441186446d90fbba1d373f64a74140"
-metafile = true
-
-[[files]]
 file = "mods/witcher-rpg-class.pw.toml"
 hash = "c3fd5111083fa9f36500e48fee9f15b7312f6088eb4080d3431a31235511bea8"
 metafile = true
@@ -1887,17 +1758,21 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/CCC-Legendary-Models.zip"
-hash = "6ba2f6e5794f390652ff3243ea50b57ebef5220c419f564c7d442f758f9bfa3b"
-
-[[files]]
-file = "resourcepacks/MissingMons-Resources.zip"
-hash = "69e07b5f0beabc6f47396e74f2590b354d6187f0861bf045b5b9ce97e4cb5b46"
+file = "pcbang/Elly-PCbang-Instance.zip"
+hash = "d1837663ded85900f727527b816c80c58691d33d1ff6ddfc2de2fbf58ed75714"
 
 [[files]]
 file = "servers.dat"
 hash = "a9a2ac518a22814f4ec7d8743e3867b8727309889e5aa2a2faa33f665b1ec92b"
 preserve = true
+
+[[files]]
+file = "setup/Elly-Server-Setup.exe"
+hash = "b4e3b1be6511017bb16095616e18f2f55c11af9415f028b153cd66989d533970"
+
+[[files]]
+file = "setup/Elly-Server-Setup.exe.sha256"
+hash = "002d7d05adf953ccaac4e655fff613dea5c5094147ce39e36fdf8a5fdab4a023"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
