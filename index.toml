@@ -1764,11 +1764,11 @@ preserve = true
 
 [[files]]
 file = "setup/Elly-Server-Setup.exe"
-hash = "b4e3b1be6511017bb16095616e18f2f55c11af9415f028b153cd66989d533970"
+hash = "8a37782d91f3c5d46d8afd1ee9fcd72707553482004aff40da7d08f400d54199"
 
 [[files]]
 file = "setup/Elly-Server-Setup.exe.sha256"
-hash = "002d7d05adf953ccaac4e655fff613dea5c5094147ce39e36fdf8a5fdab4a023"
+hash = "6fe3e721cec8e9669dbc570f04c499a1656a371984e9342b12d25f49c49a20cb"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
