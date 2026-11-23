@@ -1004,6 +1004,11 @@ hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "8675eb41c4bb4fb257451f86a79ae35aae0ce5d88a061e1adcaede311c22f4aa"
+metafile = true
+
+[[files]]
 file = "mods/macaws-natures-spirit.pw.toml"
 hash = "d44809b2ff4fb72c219374726258a2a7319afd58f47ce5c55826efc0fda3ce72"
 metafile = true
